@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-size: 30px;
+    background-color: blanchedalmond;
+}
+
+.titlecolor1 {
+    color: red;
+}
+
+.titlecolor2 {
+    color: blue;
+}
+
+
+
+input {
+    font-size: 25px;
+}
+
+.fields {
+    width: 100px;
+    height: 100px;
+   vertical-align: middle;
+   margin-bottom: 10px;
+}
+
+input[value="〇"] {
+    color: red;
+}
+
+input[value="✕"] {
+    color: blue;
+}
+
